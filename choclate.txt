@@ -1,0 +1,3 @@
+{
+    "minion2": "ERROR: Running chocolatey failed: "
+}

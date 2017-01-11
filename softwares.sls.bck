@@ -1,0 +1,4 @@
+Softwares Installed:
+  module.run:
+    - name: cmd.run
+    - cmd: Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* |  Format-Table -Property DisplayName, DisplayVersion, InstallDate
